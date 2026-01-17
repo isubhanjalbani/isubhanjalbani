@@ -1,6 +1,8 @@
-Hi, I’m Subhan Jalbani
-SEO Content Writer | Semantic SEO | Optimize for AI Search
-About Me
+# Hi, I’m Subhan Jalbani
+
+### SEO Content Writer | Semantic SEO | Optimize for AI Search
+
+## About Me
 
 I’m Subhan Jalbani, an SEO Content Writer focused on On Page SEO, Semantic SEO, Answer Engine Optimization, and Generative Engine Optimization.
 
@@ -10,68 +12,64 @@ I have a Bachelor’s degree in Information Technology from QUEST Nawabshah. I�
 
 I now focus on optimizing content for modern search. This includes featured snippets, AI overviews, voice search, and generative tools like ChatGPT.
 
-Education
+## Education
 
-Bachelor’s in Information Technology
+**Bachelor’s in Information Technology**  
 Quaid e Awam University of Engineering, Science and Technology, Nawabshah
 
 Focus areas included web technologies, search systems, and data handling.
 
-Core Skills
-SEO Content Writing
+## Core Skills
 
-SEO focused blog writing
-Content planning and structure
-Search intent based writing
-Content updates and optimization
+### SEO Content Writing
 
-SEO and Search Optimization
+* SEO focused blog writing  
+* Content planning and structure  
+* Search intent based writing  
+* Content updates and optimization  
 
-On Page SEO
-Semantic SEO and entities
-Internal linking
-Keyword research
-Technical basics for SEO
+### SEO and Search Optimization
 
-Optimize for AI Search
+* On Page SEO  
+* Semantic SEO and entities  
+* Internal linking  
+* Keyword research  
+* Technical basics for SEO  
 
-Answer Engine Optimization
-Generative Engine Optimization
-Content for AI overviews
-Voice search friendly structure
-Clear headings and concise answers
+### Optimize for AI Search
 
-Tools and Tech
+* Answer Engine Optimization  
+* Generative Engine Optimization  
+* Content for AI overviews  
+* Voice search friendly structure  
+* Clear headings and concise answers  
 
-WordPress
-HTML
-CSS
-Basic JavaScript
-AI writing and SEO tools
+### Tools and Tech
 
-What I Do
+* WordPress  
+* HTML  
+* CSS  
+* Basic JavaScript  
+* AI writing and SEO tools  
 
-Write SEO content based on real search intent
+## What I Do
 
-Optimize pages using semantic structure and entities
+1. Write SEO content based on real search intent  
+2. Optimize pages using semantic structure and entities  
+3. Improve visibility for featured snippets and AI results  
+4. Structure content for answer engines and generative search  
+5. Use AI tools for research, not shortcuts  
+6. Keep content simple, readable, and useful  
 
-Improve visibility for featured snippets and AI results
+## GitHub Stats
 
-Structure content for answer engines and generative search
+## Connect With Me
 
-Use AI tools for research, not shortcuts
-
-Keep content simple, readable, and useful
-
-GitHub Stats
-
-Connect With Me
-
-LinkedIn
+**LinkedIn**  
 https://www.linkedin.com/in/subhanjalbani/
 
-Email
+**Email**  
 subhanblogger@gmail.com
 
-GitHub
+**GitHub**  
 https://github.com/subhanjalbani
